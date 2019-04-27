@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{8777BE69-F1BF-4386-9503-9F94F0C8E5EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8777BE69-F1BF-4386-9503-9F94F0C8E5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8777BE69-F1BF-4386-9503-9F94F0C8E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8777BE69-F1BF-4386-9503-9F94F0C8E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8777BE69-F1BF-4386-9503-9F94F0C8E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44117E34-7359-44AA-A339-74D2078D13A1}
+	EndGlobalSection
+EndGlobal
